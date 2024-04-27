@@ -1,4 +1,22 @@
-﻿using fundamentos.Models;
+﻿// using fundamentos.Models;
+
+string apresentacao = "Olá, seja bem vindo!";
+
+int quantidade = 1;
+
+double altura = 1.80;
+
+decimal preco = 1.80M;
+
+bool condicao = true;
+
+Console.WriteLine(apresentacao);
+Console.WriteLine("Valor da variável quantidade: " + quantidade);
+Console.WriteLine("Valor da variável altura: " + altura.ToString("0.00"));
+Console.WriteLine("Valor da variável preco: " + preco);
+Console.WriteLine("Valor da variável condicao: " + condicao);
+
+/* 
 
 Pessoa pessoa1 = new Pessoa
 {
@@ -6,12 +24,12 @@ Pessoa pessoa1 = new Pessoa
     Idade = 24
 };
 
-/* 
-Modelo antigo:
+//Modelo antigo:
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Ian";
-pessoa1.Idade = 24;
-*/
+//Pessoa pessoa1 = new Pessoa();
+//pessoa1.Nome = "Ian";
+//pessoa1.Idade = 24;
 
 pessoa1.Apresentar();
+
+*/

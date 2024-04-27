@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iancu\\Documents\\repository\\fundamentos\\fundamentos.csproj": {}
+    "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iancu\\Documents\\repository\\fundamentos\\fundamentos.csproj": {
+    "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iancu\\Documents\\repository\\fundamentos\\fundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj",
         "projectName": "fundamentos",
-        "projectPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos\\fundamentos.csproj",
+        "projectPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj",
         "packagesPath": "C:\\Users\\iancu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos\\obj\\",
+        "outputPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
