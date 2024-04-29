@@ -4,8 +4,8 @@
 // Console.WriteLine(a);
 
 string a = "15-";
-int b = 0;
-int.TryParse(a, out b);
+//int b = 0;
+int.TryParse(a, out int b);
 
 Console.WriteLine(b);
 Console.WriteLine("Conversão realizada com sucesso!");
