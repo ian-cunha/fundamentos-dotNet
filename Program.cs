@@ -1,7 +1,14 @@
 ﻿//using fundamentos.Models;
 
-double a = 4 / (2 + 2);
-Console.WriteLine(a);
+// double a = 4 / (2 + 2);
+// Console.WriteLine(a);
+
+string a = "15-";
+int b = 0;
+int.TryParse(a, out b);
+
+Console.WriteLine(b);
+Console.WriteLine("Conversão realizada com sucesso!");
 
 // Casting Implícito
 //int a = 5;
