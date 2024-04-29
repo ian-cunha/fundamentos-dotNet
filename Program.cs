@@ -1,7 +1,29 @@
-﻿// using fundamentos.Models;
+﻿using fundamentos.Models;
 
-DateTime dataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+int inteiro = 5;
+string a = inteiro.ToString();
+
+Console.WriteLine(a);
+
+// Cast - Casting
+//int a = Convert.ToInt32(null);
+//int a = int.Parse("5");
+//Console.WriteLine(a);
+
+// int a = 10;
+// int b = 20;
+
+// int c = a + b;
+
+// // c = c + 5;
+// //c += 5;
+// //c =- 5;
+// c *= 5;
+
+// Console.WriteLine(c);
+
+//DateTime dataAtual = DateTime.Now.AddDays(5);
+//Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
 
 /* 
 string apresentacao = "Olá, seja bem vindo!";
@@ -27,17 +49,15 @@ Console.WriteLine("Valor da variável condicao: " + condicao);
 
 /* 
 
+//Pessoa pessoa1 = new Pessoa();
+//pessoa1.Nome = "Ian";
+//pessoa1.Idade = 24;
+
 Pessoa pessoa1 = new Pessoa
 {
     Nome = "Ian",
     Idade = 24
 };
-
-//Modelo antigo:
-
-//Pessoa pessoa1 = new Pessoa();
-//pessoa1.Nome = "Ian";
-//pessoa1.Idade = 24;
 
 pessoa1.Apresentar();
 
