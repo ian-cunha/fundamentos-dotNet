@@ -1,6 +1,67 @@
 ﻿//using fundamentos.Models;
 
+// Switch Case
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
 
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+    default:
+        Console.Write("Não é uma vogal");
+        break;
+}
+
+/*
+if (letra == "a" ||
+    letra == "e" ||
+    letra == "i" ||
+    letra == "o" ||
+    letra == "u")
+{
+    Console.WriteLine("Vogal");
+}
+else
+{
+    Console.WriteLine("Não é uma Vogal");
+}
+*/
+
+
+/*
+if (letra == "a")
+{
+    Console.WriteLine("Vogal");
+}
+else if (letra == "e")
+{
+    Console.WriteLine("Vogal");
+}
+else if (letra == "i")
+{
+    Console.WriteLine("Vogal");
+}
+else if (letra == "o")
+{
+    Console.WriteLine("Vogal");
+}
+else if (letra == "u")
+{
+    Console.WriteLine("Vogal");
+}
+else
+{
+    Console.WriteLine("Não é uma vogal");
+}
+*/
+
+/*
 int quantidadeEmEstoque = 3;
 int quantidadeCompra = 0;
 bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
@@ -21,6 +82,7 @@ else
 {
     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque.");
 }
+*/
 
 
 // double a = 4 / (2 + 2);
