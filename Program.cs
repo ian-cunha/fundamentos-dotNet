@@ -1,5 +1,18 @@
 ﻿//using fundamentos.Models;
 
+bool possuiPresencaMinima = true;
+double media = 8.5;
+
+if (possuiPresencaMinima && media >= 7)
+{
+    Console.WriteLine("Aprovado!");
+}
+else
+{
+    Console.WriteLine("Reprovado!");
+}
+
+/*
 bool ehMaiorDeIdade = false;
 bool possuiAutorizacaoDoResponsavel = true;
 
@@ -11,6 +24,7 @@ else
 {
     Console.WriteLine("Entrada não foi liberada");
 }
+*/
 
 // Switch Case
 /*
