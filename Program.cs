@@ -1,6 +1,19 @@
 ﻿//using fundamentos.Models;
 
+bool ehMaiorDeIdade = false;
+bool possuiAutorizacaoDoResponsavel = true;
+
+if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+{
+    Console.WriteLine("Entrada liberada");
+}
+else
+{
+    Console.WriteLine("Entrada não foi liberada");
+}
+
 // Switch Case
+/*
 Console.WriteLine("Digite uma letra");
 string letra = Console.ReadLine();
 
@@ -17,6 +30,7 @@ switch (letra)
         Console.Write("Não é uma vogal");
         break;
 }
+*/
 
 /*
 if (letra == "a" ||
