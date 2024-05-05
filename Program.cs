@@ -1,8 +1,9 @@
 ﻿using fundamentos.dotNet.Models;
 
-string opcao;
+string? opcao;
+bool exibirMenu = true;
 
-while (true)
+while (exibirMenu)
 {
     Console.Clear();
     Console.WriteLine("Digite a sua opção:");
@@ -29,7 +30,8 @@ while (true)
 
         case "4":
             Console.WriteLine("Encerrado");
-            Environment.Exit(0);
+            exibirMenu = false;
+            //Environment.Exit(0);
             break;
 
         default:
