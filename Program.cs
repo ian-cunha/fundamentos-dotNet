@@ -1,5 +1,20 @@
 ﻿//using fundamentos.Models;
 
+// Negação !
+bool choveu = false;
+bool estaTarde = false;
+
+if (!choveu && !estaTarde)
+{
+    Console.WriteLine("Vou pedalar.");
+}
+else
+{
+    Console.WriteLine("Vou pedalar outro dia.");
+}
+
+/*
+// AND &&
 bool possuiPresencaMinima = true;
 double media = 8.5;
 
@@ -11,8 +26,10 @@ else
 {
     Console.WriteLine("Reprovado!");
 }
+*/
 
 /*
+// OR ||
 bool ehMaiorDeIdade = false;
 bool possuiAutorizacaoDoResponsavel = true;
 
