@@ -1,5 +1,16 @@
-﻿//using fundamentos.Models;
+﻿using fundamentos.dotNet.Models;
 
+//Calculadora calc = new Calculadora();
+Calculadora calc = new();
+
+calc.Somar(10, 30);
+calc.Subtrair(10, 50);
+calc.Multiplicar(15, 45);
+calc.Dividir(2, 2);
+
+
+
+/*
 // Negação !
 bool choveu = false;
 bool estaTarde = false;
@@ -12,6 +23,7 @@ else
 {
     Console.WriteLine("Vou pedalar outro dia.");
 }
+*/
 
 /*
 // AND &&
