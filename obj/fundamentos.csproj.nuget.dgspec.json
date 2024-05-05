@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iancu\\Documents\\GitHub\\fundamentos-dotNet\\fundamentos.csproj": {}
+    "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iancu\\Documents\\GitHub\\fundamentos-dotNet\\fundamentos.csproj": {
+    "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iancu\\Documents\\GitHub\\fundamentos-dotNet\\fundamentos.csproj",
+        "projectUniqueName": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj",
         "projectName": "fundamentos",
-        "projectPath": "C:\\Users\\iancu\\Documents\\GitHub\\fundamentos-dotNet\\fundamentos.csproj",
+        "projectPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\fundamentos.csproj",
         "packagesPath": "C:\\Users\\iancu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iancu\\Documents\\GitHub\\fundamentos-dotNet\\obj\\",
+        "outputPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\iancu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\iancu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
