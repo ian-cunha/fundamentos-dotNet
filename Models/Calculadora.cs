@@ -23,5 +23,10 @@ namespace fundamentos.dotNet.Models
         {
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+        public void Potencia(int x, int y)
+        {
+            double pot = Math.Pow(x, y);
+            Console.WriteLine($"{x}^{y} = {pot}");
+        }
     }
 }
