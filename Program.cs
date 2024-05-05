@@ -1,7 +1,16 @@
 ﻿using fundamentos.dotNet.Models;
 
+// Repetição FOR
+int numero = 5;
+
+for(int contador = 0; contador <= 100; contador++)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
+
+
 //Calculadora calc = new Calculadora();
-Calculadora calc = new();
+//Calculadora calc = new();
 
 //calc.Somar(10, 30);
 //calc.Subtrair(10, 50);
@@ -11,7 +20,7 @@ Calculadora calc = new();
 //calc.Seno(30);
 //calc.Coseno(30);
 //calc.Tangente(30);
-calc.RaizQuadrada(9);
+//calc.RaizQuadrada(9);
 
 /*
 int numeroIncremento = 10;
