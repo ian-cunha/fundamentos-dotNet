@@ -1,9 +1,25 @@
 ﻿using ExemploFundamentos.Common.Models;
 
+// ARRAY
+int[] arrayInteiros = new int[4];
+
+arrayInteiros[0] = 72;
+arrayInteiros[1] = 64;
+arrayInteiros[2] = 50;
+arrayInteiros[3] = 1;
+
+for(int contador = 0; contador < arrayInteiros.Length; contador++)
+{
+    Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+}
+
+
+/*
 Pessoa pessoa1 = new();
 pessoa1.Nome = "Ian";
 pessoa1.Idade = 24;
 pessoa1.Apresentar();
+*/
 
 /*
 string? opcao;
