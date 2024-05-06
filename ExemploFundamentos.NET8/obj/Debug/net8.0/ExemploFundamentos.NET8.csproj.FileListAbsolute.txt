@@ -1,0 +1,15 @@
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.exe
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.deps.json
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.runtimeconfig.json
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.dll
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.pdb
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.AssemblyInfoInputs.cache
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.AssemblyInfo.cs
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.sourcelink.json
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.dll
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\refint\ExemploFundamentos.NET8.dll
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.pdb
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.genruntimeconfig.cache
+C:\Users\iancu\Documents\repository\fundamentos-dotNet\ExemploFundamentos.NET8\obj\Debug\net8.0\ref\ExemploFundamentos.NET8.dll
