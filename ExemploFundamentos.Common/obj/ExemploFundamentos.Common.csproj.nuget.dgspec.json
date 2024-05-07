@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
+    "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\iancu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
