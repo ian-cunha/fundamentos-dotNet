@@ -1,5 +1,23 @@
 ﻿using ExemploFundamentos.Common.Models;
 
+// Instancia da classe pessoa
+Pessoa p = new()
+{
+    /*
+        Atribui o nome e idade para pessoa
+        passando nome Ian
+        e idade 24
+    */
+    Nome = "Ian",
+    Idade = 24
+};
+
+// Faz a pessoa se apresentar
+p.Apresentar();
+
+
+
+/*
 List<string> listaString = new List<string>();
 
 listaString.Add("SP");
@@ -17,6 +35,7 @@ Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {lis
 listaString.Remove("MG");
 
 Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+*/
 
 /*
 Console.WriteLine("Percorrendo a lista com o FOR");
