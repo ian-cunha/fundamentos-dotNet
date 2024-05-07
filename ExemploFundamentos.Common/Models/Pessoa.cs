@@ -27,5 +27,9 @@ namespace ExemploFundamentos.Common.Models
             // Exemplo de pulo de linha
             //Console.WriteLine($"Olá meu nome é {Nome}, \n e tenho {Idade} anos.");
         }
+        public void CadastrarNoERPXYZDaEmpresa()
+        {
+            Console.WriteLine("Cadastrar ERP");
+        }
     }
 }

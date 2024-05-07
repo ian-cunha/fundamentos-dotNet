@@ -15,10 +15,12 @@ Pessoa p = new()
 // Faz a pessoa se apresentar
 p.Apresentar();
 
+
 Calculadora c = new();
 c.Somar(3, 5);
 c.Subtrair(3, 5);
 
+p.CadastrarNoERPXYZDaEmpresa();
 
 /*
 List<string> listaString = new List<string>();
