@@ -6,7 +6,19 @@ listaString.Add("SP");
 listaString.Add("BA");
 listaString.Add("PE");
 listaString.Add("MG");
+listaString.Add("RJ");
 
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Add("SC");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Remove("MG");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+/*
 Console.WriteLine("Percorrendo a lista com o FOR");
 for(int contador = 0; contador < listaString.Count; contador++)
 {
@@ -20,31 +32,7 @@ foreach(string item in listaString)
     Console.WriteLine($"Posição N° {contadorForeach} - {item}");
     contadorForeach++;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
 
 
 

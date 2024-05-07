@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos\\fundamentos.csproj",
+      "projectUniqueName": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos\\fundamentos.csproj",
       "projectName": "fundamentos",
-      "projectPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos\\fundamentos.csproj",
+      "projectPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos\\fundamentos.csproj",
       "packagesPath": "C:\\Users\\iancu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos\\obj\\",
+      "outputPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "c:\\Users\\iancu\\Documents\\repository\\fundamentos-dotNet\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }
