@@ -1,13 +1,16 @@
 ﻿using ExemploFundamentos.Common.Models;
 
+    double pi, raio, volume;
+    pi = 3.14159;
+    raio = double.Parse(Console.ReadLine());
+    volume = pi * ( 4.0/3 ) * Math.Pow( raio , 3 );
+    
+    Console.WriteLine($"VOLUME = {volume.ToString("0.000")}");
+
+/*
 // Instancia da classe pessoa
 Pessoa p = new()
 {
-    /*
-        Atribui o nome e idade para pessoa
-        passando nome Ian
-        e idade 24
-    */
     Nome = "Ian",
     Idade = 24
 };
@@ -21,6 +24,7 @@ c.Somar(3, 5);
 c.Subtrair(3, 5);
 
 p.CadastrarNoERPXYZDaEmpresa();
+*/
 
 /*
 List<string> listaString = new List<string>();
